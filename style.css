@@ -99,6 +99,7 @@ h2{
     color: white;
     font-size: 24px;
     font-weight: 700;
+    cursor: pointer;
 }
 .custom{
     background: #F3F9FA;
@@ -174,7 +175,7 @@ h2{
 
 
 
-button{
+.reset{
     background: #26C2AE;
     border-radius: 5px;
     padding: 9px;
@@ -182,6 +183,7 @@ button{
     color: #00474B;
     font-size: 20px;
     border: none;
+    cursor: pointer;
 }
 
 
